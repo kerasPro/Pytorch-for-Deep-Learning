@@ -1,2 +1,2 @@
 # Pytorch-for-Deep-Learning
-Especialización en Pytoch de Deep Learning AI - Coursera
+Especialización en Pytorch de Deep Learning AI - Coursera
