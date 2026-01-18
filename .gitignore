@@ -1,2 +1,10 @@
-# Ignorar datasets MNIST
-pytorch-fundamentals/Modulo 2/data/MNIST/
+# Ignorar datasets y carpetas data
+**/data/
+**/EMNIST_data/
+
+# Ignorar entornos virtuales
+.venv/
+env/
+__pycache__/
+*.pyc
+
