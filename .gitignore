@@ -1,6 +1,8 @@
 # Ignorar datasets y carpetas data
 **/data/
 **/EMNIST_data/
+**/plants_dataset/
+**/flower_data/
 
 # Ignorar entornos virtuales
 .venv/
