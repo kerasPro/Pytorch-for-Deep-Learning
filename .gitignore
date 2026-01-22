@@ -9,4 +9,8 @@
 env/
 __pycache__/
 *.pyc
+cifar_100/
+datasets/
+c2_preview/
+dataset/
 
