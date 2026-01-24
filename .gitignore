@@ -12,4 +12,7 @@ __pycache__/
 cifar_100/
 datasets/
 dataset/
+AIvsReal_sampled/
+cifar10_3class_imbalanced/
+apple_ad_subset/
 
