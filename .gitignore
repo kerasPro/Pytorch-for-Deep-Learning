@@ -3,7 +3,7 @@
 **/EMNIST_data/
 **/plants_dataset/
 **/flower_data/
-
+**/images/
 # Ignorar entornos virtuales
 .venv/
 env/
@@ -16,4 +16,6 @@ AIvsReal_sampled/
 cifar10_3class_imbalanced/
 apple_ad_subset/
 cifar10/
-
+mobilenet_weights/
+oxford3pet_data/
+Files.zip
