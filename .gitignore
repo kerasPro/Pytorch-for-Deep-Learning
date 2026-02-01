@@ -20,3 +20,5 @@ mobilenet_weights/
 oxford3pet_data/
 Files.zip
 images/
+pytorch_datasets/
+tiny_fruit_and_vegetable/
