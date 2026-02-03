@@ -23,3 +23,8 @@ images/
 pytorch_datasets/
 tiny_fruit_and_vegetable/
 best_model_saved/
+bert_model/
+glove_data/
+recipes_fruit_veg.csv
+distilbert-local-base/
+databricks-dolly-15k-dataset/
