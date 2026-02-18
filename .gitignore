@@ -30,3 +30,5 @@ distilbert-local-base/
 recipes_fruit_veg.csv
 bert_tokenizer_local/
 resnet18_chest_xray_classifier_weights.pth
+chest_xray/
+unseen/
